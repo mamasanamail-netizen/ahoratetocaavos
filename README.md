@@ -2,3 +2,5 @@
 
 Página de venta del encuentro de Roma Polnoroff (Mamasana).
 Se publica sola en https://ahoratetocaavos.netlify.app cada vez que cambia `index.html` en la rama `main`.
+
+Última actualización automática: 18/11/2026.
